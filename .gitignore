@@ -1,0 +1,11 @@
+node_modules
+dist
+build
+.idea
+
+git-init.js
+git-add.js
+git-pushsync.js
+
+yarn-error.log
+
